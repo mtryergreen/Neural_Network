@@ -1,7 +1,8 @@
 # Neural_Network
 
 ## Context
-A foundation needs help predicting where to make investments. 
+A foundation, Alphabet Soup, needs help predicting where to make investments. 
+
 ## Goal
 I'm creating a binary classifier that is capable of predicitng whether applicants will be successful if funded by Alphabet Soup. The module content utilized Jupyter notebooks, however Tensorflow didn't work on my Mac so I utilized Google Colab. 
 
